@@ -27,6 +27,7 @@ public class LoginPage extends TestBase {
 	public boolean imgLogo() {
 	   return driver.findElement(orangelogo).isDisplayed();
 	   
+	   
 	}
 	public HomePage login(String uname, String pwd)
 	{

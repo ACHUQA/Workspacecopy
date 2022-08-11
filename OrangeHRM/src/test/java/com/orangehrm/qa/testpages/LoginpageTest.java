@@ -17,7 +17,8 @@ public class LoginpageTest extends TestBase{
 	public LoginpageTest() throws IOException
 	{
 		super();
-		sysstem.out.println("Calling base class constructor ");
+		System.out.println("Calling base class constructor ");
+		System.out.println("yes done");
 	}
 	
 
